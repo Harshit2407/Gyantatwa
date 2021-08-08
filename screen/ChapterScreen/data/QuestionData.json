@@ -1,0 +1,28 @@
+{
+    "english"	:	[
+
+        {
+            "question": "What’s the biggest planet in our solar system?",
+            "options": "Jupiter"
+        },
+        {
+            "question": "What attraction in India is one of the famus in the world?",
+            "options": "Taj Mahal"
+        },
+        {
+            "question": "What land animal can open its mouth the widest?",
+            "options": "Hippo"
+        },
+        {
+            "question": "What is the largest animal on Earth?",
+            "options": "The blue whale"
+        },
+        {
+            "question": "What is the only flying mammal?",
+            "options": "The bat"
+        }
+            
+        ]       
+        
+}
+
